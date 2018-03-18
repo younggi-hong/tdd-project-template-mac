@@ -23,5 +23,7 @@ TEST(MyCode, test1)
     /*
      * Instantiate your class, or call the function, you want to test
      */
+	LONGS_EQUAL(1, 1);
+
 }
 
